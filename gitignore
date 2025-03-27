@@ -1,0 +1,15 @@
+.vscode/
+*.pyc
+*.sqlite*
+.svn/
+*.mine
+*.r[0-9]*
+**/migrations/**
+!*/migrations/__init__.py
+static_root/*
+media_root/*
+__pycache__/*
+*.trc
+.env
+static_root
+venv
